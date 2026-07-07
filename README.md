@@ -1,5 +1,5 @@
 # 10-bit PWM
-A project on how to build a 10bit synthesizer with ESP32, developed during studio residency at BEK (https://bek.no/en/) in May/June 2026.
+A project on how to build a 10-bit synthesizer with ESP32, which was developed during studio residency at BEK (https://bek.no/en/) in May / June 2026.
 
 <img width="3213" height="3445" alt="10-bit_pwm_prototype_1" src="https://github.com/user-attachments/assets/f17bf164-35d8-4f2b-9b66-d63433490cbe" />
 
