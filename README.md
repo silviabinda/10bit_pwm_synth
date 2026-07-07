@@ -4,10 +4,10 @@ A project on how to build a 10-bit synthesizer with ESP32, which was developed d
 <img width="3213" height="3445" alt="10-bit_pwm_prototype_1" src="https://github.com/user-attachments/assets/f17bf164-35d8-4f2b-9b66-d63433490cbe" />
 
 
-About the synth:
+## About the synth:
 10-bit PWM is a custom-build open source ESP32-based PWM programmable synthesizer with analog potentiometer controls and software-defined sound engines.
 
-Technical specs:
+## Technical specs:
 - Platform: ESP32 
 - Programming Environment: MicroPython
 - Audio Output: 3.5 mm stereo jack
