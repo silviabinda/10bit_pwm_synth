@@ -19,3 +19,5 @@ A project on how to build a 10-bit synthesizer with ESP32, which was developed d
 - Control resolution: 8-bit parameter mapping (0 - 255)
 - Sound engines: software-defined, selectable by button
 
+## Acknowledgements
+The project was developed at BEK's Electronic Lab and was co-financed by the European Union.
